@@ -1,5 +1,5 @@
 
-Perintah
+##Perintah
 
 $pkg update && pkg upgrade
 
@@ -27,7 +27,7 @@ git clone https://github.com/Oleng1/Dho_Tha
 
 #Cara Menjalankan Scripts
 
-$cd  DhoTha
+$cd  Dho_Tha
 
 $git pull
 
@@ -35,5 +35,9 @@ $python  dho_tha_enc.py
 
 
 # Dho_Tha
+Kalo ada Bug dalam Script
+Tolong hubungi Author
+
+https://www.facebook.com/ocheng.onyes
 
 Free Buat Umat
