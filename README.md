@@ -1,4 +1,6 @@
-#Perintah
+
+Perintah
+
 $pkg update && pkg upgrade
 
 $pkg install python
