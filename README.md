@@ -23,7 +23,7 @@ $pip install rich
 
 $pip install mechanize
 
-git clone https://github.com/Oleng1/DhoTha
+git clone https://github.com/Oleng1/Dho_Tha
 
 #Cara Menjalankan Scripts
 
